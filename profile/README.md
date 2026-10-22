@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/mzStack"><img alt="GitHub: mzStack" src="https://img.shields.io/badge/GitHub-mzStack-181717?logo=github&amp;logoColor=white"></a>
-  <img alt="Specification 0.0.0, Working Draft" src="https://img.shields.io/badge/spec-0.0.0%20%C2%B7%20Working%20Draft-023E8A">
+  <img alt="Specification 0.1.0, Working Draft" src="https://img.shields.io/badge/spec-0.1.0%20%C2%B7%20Working%20Draft-023E8A">
   <a href="https://github.com/mzStack/.github/blob/main/CODE_OF_CONDUCT.md"><img alt="Code of conduct: read" src="https://img.shields.io/badge/Code%20of%20conduct-read-007EC6"></a>
 </p>
 
